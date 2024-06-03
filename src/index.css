@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #dadada;
+  background: #dadada;
+  transition: background-color 0.3s, transform 0.3s;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ändra bakrundsfärg
+
+Recensioner (kolla andra sidor)
+
+Typsnittet
+
+Ta bort utropstecken och smileys 
+
+Ändra namn på produkterna (till städer)
+ */

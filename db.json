@@ -1,0 +1,116 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Newton Burger",
+      "price": 60,
+      "description": "Savory Beef Classic",
+      "category": "burgers",
+      "image": "public/images/NewtonBurger.png"
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Burger",
+      "price": 60,
+      "description": "Rosy Flavor Burst",
+      "category": "burgers",
+      "image": "public/images/FlowerBurger.png"
+    },
+    {
+      "id": 3,
+      "title": "Kids Burger",
+      "price": 60,
+      "description": "Tiny Tasty Treat",
+      "category": "burgers",
+      "image": "public/images/KidsBurger.png"
+    },
+    {
+      "id": 4,
+      "title": "Singapore Burger",
+      "price": 60,
+      "description": "Wholesome Plant Power",
+      "category": "burgers",
+      "image": "public/images/HealthyMf.png"
+    },
+    {
+      "id": 5,
+      "title": "American Burger",
+      "price": 60,
+      "description": "Flame-Grilled Perfection",
+      "category": "burgers",
+      "image": "public/images/Cheese.png"
+    },
+    {
+      "id": 6,
+      "title": "Fries",
+      "price": 10,
+      "description": "Sizzling Fry Delight",
+      "category": "sides",
+      "image": "public/images/Sides.png"
+    },
+    {
+      "id": 7,
+      "title": "Chicken Wings",
+      "price": 10,
+      "description": "Saucy Chicken Bites",
+      "category": "sides",
+      "image": "public/images/ChickenWings.png"
+    },
+    {
+      "id": 8,
+      "title": "Onion Rings",
+      "price": 10,
+      "description": "Golden Onion Bliss",
+      "category": "sides",
+      "image": "public/images/OnionRings.png"
+    },
+    {
+      "id": 9,
+      "title": "Lemonade",
+      "price": 10,
+      "description": "Lively Lemon Zest",
+      "category": "drinks",
+      "image": "public/images/Lemonade.png"
+    },
+    {
+      "id": 10,
+      "title": "Cola",
+      "price": 10,
+      "description": "Classic Refreshment",
+      "category": "drinks",
+      "image": "public/images/Cola.png"
+    },
+    {
+      "id": 11,
+      "title": "Sprite",
+      "price": 10,
+      "description": "Zesty Citrus Twist",
+      "category": "drinks",
+      "image": "public/images/Sprite.png"
+    },
+    {
+      "id": 12,
+      "title": "Cream-Dream",
+      "price": 10,
+      "description": "Decadent Cream Dream",
+      "category": "desserts",
+      "image": "public/images/Creamy.png"
+    },
+    {
+      "id": 13,
+      "title": "Cuppy Cake",
+      "price": 10,
+      "description": "Sweet Bliss Bites",
+      "category": "desserts",
+      "image": "public/images/CuppyCake.png"
+    },
+    {
+      "id": 14,
+      "title": "Strawberry Dream",
+      "price": 10,
+      "description": "Strawberry Sensation Cake",
+      "category": "desserts",
+      "image": "public/images/JuicyCake.png"
+    }
+  ]
+}
